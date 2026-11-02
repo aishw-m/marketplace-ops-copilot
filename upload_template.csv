@@ -1,0 +1,2 @@
+date,merchant,impressions,clicks,orders,add_to_carts,checkouts,gmv,cancellations,avg_delivery_mins,discount_spend,city,category
+2026-08-01,Demo Merchant 001,2000,400,40,100,60,1000,2,30,80,Example City,Example Category
